@@ -14,7 +14,7 @@
 
 defined( 'ABSPATH' ) || exit;
 
-define( 'WP_GITHUB_SYNC_VERSION', '1.0.0' );
+define( 'WP_GITHUB_SYNC_VERSION', '1.0.3' );
 define( 'WP_GITHUB_SYNC_DIR', plugin_dir_path( __FILE__ ) );
 define( 'WP_GITHUB_SYNC_URL', plugin_dir_url( __FILE__ ) );
 
